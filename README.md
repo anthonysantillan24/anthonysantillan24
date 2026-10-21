@@ -1,4 +1,4 @@
-# Hi there, I'm Anthony Santillán  
+# Hi there, I'm Anthony Santillan  
 ### Data Engineering & AI Student | MLOps & Data Analytics Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
